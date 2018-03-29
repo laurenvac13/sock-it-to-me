@@ -1,6 +1,7 @@
 # Sock It To Me
 
 Who wants socks at TrailheaDX 2018?
+LAUREN
 
 ![QR Code to this repo](https://goo.gl/eoho2z.qr)
 
